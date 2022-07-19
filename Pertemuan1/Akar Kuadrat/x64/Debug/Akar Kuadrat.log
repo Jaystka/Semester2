@@ -1,0 +1,5 @@
+﻿  Main.cpp
+D:\Informatika\SEMESTER 2\Struktur Data\Praktikum\1\Akar Kuadrat\Main.cpp(32,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Informatika\SEMESTER 2\Struktur Data\Praktikum\1\Akar Kuadrat\Main.cpp(33,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Informatika\SEMESTER 2\Struktur Data\Praktikum\1\Akar Kuadrat\Main.cpp(42,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Akar Kuadrat.vcxproj -> D:\Informatika\SEMESTER 2\Struktur Data\Praktikum\1\x64\Debug\Akar Kuadrat.exe
